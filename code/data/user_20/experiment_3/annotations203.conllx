@@ -1,0 +1,14 @@
+1	Place	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	4	det	_	_
+3	red	_	_	_	_	4	nn	_	_
+4	star	_	_	_	_	1	dobj	_	_
+5	shaped	_	_	_	_	6	nn	_	_
+6	object	_	_	_	_	4	vmod	_	_
+7	below	_	_	_	_	6	prep	_	_
+8	the	_	_	_	_	9	det	_	_
+9	orange	_	_	_	_	7	pobj	_	_
+10	colored	_	_	_	_	12	nn	_	_
+11	round	_	_	_	_	12	nn	_	_
+12	object	_	_	_	_	9	vmod	_	_
+13	.	_	_	_	_	1	punct	_	_
+

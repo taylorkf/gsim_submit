@@ -1,0 +1,25 @@
+1	Place	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	green	_	_	_	_	1	dobj	_	_
+4	star	_	_	_	_	3	vmod	_	_
+5	to	_	_	_	_	4	prep	_	_
+6	the	_	_	_	_	7	det	_	_
+7	left	_	_	_	_	5	pobj	_	_
+8	of	_	_	_	_	7	prep	_	_
+9	the	_	_	_	_	11	det	_	_
+10	purple	_	_	_	_	11	nn	_	_
+11	circle	_	_	_	_	8	pobj	_	_
+12	.	_	_	_	_	1	punct	_	_
+13	Plae	_	_	_	_	1	vmod	_	_
+14	the	_	_	_	_	15	det	_	_
+15	green	_	_	_	_	13	dobj	_	_
+16	star	_	_	_	_	15	vmod	_	_
+17	to	_	_	_	_	16	prep	_	_
+18	the	_	_	_	_	19	det	_	_
+19	left	_	_	_	_	17	pobj	_	_
+20	of	_	_	_	_	19	prep	_	_
+21	the	_	_	_	_	23	det	_	_
+22	purple	_	_	_	_	23	nn	_	_
+23	circle	_	_	_	_	20	pobj	_	_
+24	.	_	_	_	_	1	punct	_	_
+

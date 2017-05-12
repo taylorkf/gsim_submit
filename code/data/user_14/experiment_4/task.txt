@@ -1,0 +1,1 @@
+Move the yellow triangle to a location that is vertically aligned to and below the red rhombus

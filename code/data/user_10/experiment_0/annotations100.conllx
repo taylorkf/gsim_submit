@@ -1,0 +1,25 @@
+1	Place	_	_	_	_	24	advmod	_	_
+2	the	_	_	_	_	3	det	_	_
+3	object	_	_	_	_	13	nsubj	_	_
+4	on	_	_	_	_	3	prep	_	_
+5	the	_	_	_	_	6	det	_	_
+6	left	_	_	_	_	4	pobj	_	_
+7	of	_	_	_	_	6	prep	_	_
+8	the	_	_	_	_	9	det	_	_
+9	diamond	_	_	_	_	7	pobj	_	_
+10	not	_	_	_	_	13	aux	_	_
+11	too	_	_	_	_	13	advmod	_	_
+12	far	_	_	_	_	13	advmod	_	_
+13	Place	_	_	_	_	24	advcl	_	_
+14	the	_	_	_	_	15	det	_	_
+15	object	_	_	_	_	24	nsubj	_	_
+16	on	_	_	_	_	15	prep	_	_
+17	the	_	_	_	_	18	det	_	_
+18	left	_	_	_	_	16	pobj	_	_
+19	of	_	_	_	_	18	prep	_	_
+20	the	_	_	_	_	21	det	_	_
+21	diamond	_	_	_	_	19	pobj	_	_
+22	not	_	_	_	_	24	advmod	_	_
+23	too	_	_	_	_	24	advmod	_	_
+24	far	_	_	_	_	0	root	_	_
+

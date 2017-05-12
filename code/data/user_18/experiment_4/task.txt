@@ -1,0 +1,1 @@
+place a diamond next to the shape having same color

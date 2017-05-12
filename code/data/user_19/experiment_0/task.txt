@@ -1,0 +1,2 @@
+place a red triangle above the shape having same color
+# place a red traingle above the shape having same color

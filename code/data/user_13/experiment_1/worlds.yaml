@@ -1,0 +1,3 @@
+worlds: [../worlds/right13_0.yaml, ../worlds/right13_1.yaml, ../worlds/right13_2.yaml,
+  ../worlds/right13_3.yaml, ../worlds/right13_4.yaml, ../worlds/right13_5.yaml, ../worlds/right13_6.yaml,
+  ../worlds/right13_7.yaml, ../worlds/right13_8.yaml, ../worlds/right13_9.yaml]

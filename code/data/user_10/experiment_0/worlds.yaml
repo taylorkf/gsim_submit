@@ -1,0 +1,3 @@
+worlds: [../worlds/left10_0.yaml, ../worlds/left10_1.yaml, ../worlds/left10_2.yaml,
+  ../worlds/left10_3.yaml, ../worlds/left10_4.yaml, ../worlds/left10_5.yaml, ../worlds/left10_6.yaml,
+  ../worlds/left10_7.yaml, ../worlds/left10_8.yaml, ../worlds/left10_9.yaml]

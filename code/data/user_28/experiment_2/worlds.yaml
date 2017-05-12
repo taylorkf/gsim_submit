@@ -1,0 +1,3 @@
+worlds: [../worlds/up28_0.yaml, ../worlds/up28_1.yaml, ../worlds/up28_2.yaml, ../worlds/up28_3.yaml,
+  ../worlds/up28_4.yaml, ../worlds/up28_5.yaml, ../worlds/up28_6.yaml, ../worlds/up28_7.yaml,
+  ../worlds/up28_8.yaml, ../worlds/up28_9.yaml]

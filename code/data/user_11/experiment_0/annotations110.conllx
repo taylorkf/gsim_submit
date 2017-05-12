@@ -1,0 +1,16 @@
+1	Place	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	triangle	_	_	_	_	1	dep	_	_
+4	to	_	_	_	_	3	prep	_	_
+5	the	_	_	_	_	6	det	_	_
+6	left	_	_	_	_	4	pobj	_	_
+7	of	_	_	_	_	6	prep	_	_
+8	the	_	_	_	_	9	det	_	_
+9	purple	_	_	_	_	15	nsubj	_	_
+10	square	_	_	_	_	15	dep	_	_
+11	leaving	_	_	_	_	15	punct	_	_
+12	a	_	_	_	_	13	det	_	_
+13	square	_	_	_	_	15	nsubj	_	_
+14	sized	_	_	_	_	15	nn	_	_
+15	distance	_	_	_	_	7	pobj	_	_
+

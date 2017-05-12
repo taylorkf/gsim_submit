@@ -1,0 +1,2 @@
+Move the blue square over the orange star.
+

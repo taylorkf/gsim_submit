@@ -1,0 +1,3 @@
+worlds: [../worlds/down7_0.yaml, ../worlds/down7_1.yaml, ../worlds/down7_2.yaml, ../worlds/down7_3.yaml,
+  ../worlds/down7_4.yaml, ../worlds/down7_5.yaml, ../worlds/down7_6.yaml, ../worlds/down7_7.yaml,
+  ../worlds/down7_8.yaml, ../worlds/down7_9.yaml]

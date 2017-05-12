@@ -1,0 +1,13 @@
+1	Put	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	orange	_	_	_	_	1	dobj	_	_
+4	square	_	_	_	_	3	vmod	_	_
+5	to	_	_	_	_	4	prep	_	_
+6	the	_	_	_	_	7	det	_	_
+7	west	_	_	_	_	5	pobj	_	_
+8	of	_	_	_	_	7	prep	_	_
+9	the	_	_	_	_	11	det	_	_
+10	green	_	_	_	_	11	nn	_	_
+11	crystal	_	_	_	_	8	pobj	_	_
+12	.	_	_	_	_	1	punct	_	_
+

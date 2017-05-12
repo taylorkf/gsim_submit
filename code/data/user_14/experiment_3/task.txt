@@ -1,0 +1,1 @@
+Move the red square to a location that coincides with the yellow square

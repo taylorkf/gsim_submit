@@ -1,0 +1,1 @@
+Move the blue square to a location that is horizontally aligned and to the left of yellow rhombus

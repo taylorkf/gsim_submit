@@ -1,0 +1,3 @@
+worlds: [../worlds/right26_0.yaml, ../worlds/right26_1.yaml, ../worlds/right26_2.yaml,
+  ../worlds/right26_3.yaml, ../worlds/right26_4.yaml, ../worlds/right26_5.yaml, ../worlds/right26_6.yaml,
+  ../worlds/right26_7.yaml, ../worlds/right26_8.yaml, ../worlds/right26_9.yaml]

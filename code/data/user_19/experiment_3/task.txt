@@ -1,0 +1,1 @@
+place the given shape next to the object having same shape.

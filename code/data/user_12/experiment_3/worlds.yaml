@@ -1,0 +1,3 @@
+worlds: [../worlds/on12_0.yaml, ../worlds/on12_1.yaml, ../worlds/on12_2.yaml, ../worlds/on12_3.yaml,
+  ../worlds/on12_4.yaml, ../worlds/on12_5.yaml, ../worlds/on12_6.yaml, ../worlds/on12_7.yaml,
+  ../worlds/on12_8.yaml, ../worlds/on12_9.yaml]

@@ -1,0 +1,9 @@
+1	place	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	4	det	_	_
+3	blue	_	_	_	_	4	nn	_	_
+4	circle	_	_	_	_	1	dobj	_	_
+5	under	_	_	_	_	4	prep	_	_
+6	the	_	_	_	_	8	det	_	_
+7	green	_	_	_	_	8	nn	_	_
+8	diamond	_	_	_	_	5	pobj	_	_
+

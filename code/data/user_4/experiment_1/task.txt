@@ -1,0 +1,1 @@
+Move the red star to the right next to the yellow triangle without hitting the yellow star or the green triangle and continue moving right in a straight line

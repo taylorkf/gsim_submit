@@ -1,0 +1,1 @@
+The purple square should be moved to be above the blue star.

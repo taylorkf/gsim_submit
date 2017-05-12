@@ -1,0 +1,21 @@
+1	place	_	_	_	_	20	punct	_	_
+2	a	_	_	_	_	4	det	_	_
+3	red	_	_	_	_	4	nn	_	_
+4	triangle	_	_	_	_	20	nsubj	_	_
+5	above	_	_	_	_	20	mark	_	_
+6	the	_	_	_	_	7	det	_	_
+7	shape	_	_	_	_	20	nsubj	_	_
+8	having	_	_	_	_	20	aux	_	_
+9	same	_	_	_	_	11	amod	_	_
+10	color	_	_	_	_	11	nn	_	_
+11	place	_	_	_	_	20	nsubj	_	_
+12	a	_	_	_	_	14	det	_	_
+13	red	_	_	_	_	14	nn	_	_
+14	traingle	_	_	_	_	20	nsubj	_	_
+15	above	_	_	_	_	20	mark	_	_
+16	the	_	_	_	_	17	det	_	_
+17	shape	_	_	_	_	20	nsubj	_	_
+18	having	_	_	_	_	20	aux	_	_
+19	same	_	_	_	_	20	amod	_	_
+20	color	_	_	_	_	0	root	_	_
+

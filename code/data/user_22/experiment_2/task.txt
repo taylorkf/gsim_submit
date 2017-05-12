@@ -1,0 +1,1 @@
+Move the square to the right of the orange circle, far enough so that you could fit another copy of the circle between the two.

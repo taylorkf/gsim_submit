@@ -1,0 +1,1 @@
+Move the blue square and place it to the left of the purple triangle.

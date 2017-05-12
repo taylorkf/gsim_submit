@@ -1,0 +1,9 @@
+1	place	_	_	_	_	2	nn	_	_
+2	purple	_	_	_	_	0	root	_	_
+3	triangle	_	_	_	_	2	dobj	_	_
+4	on	_	_	_	_	3	prep	_	_
+5	top	_	_	_	_	4	pobj	_	_
+6	of	_	_	_	_	5	prep	_	_
+7	green	_	_	_	_	8	nn	_	_
+8	square	_	_	_	_	6	pobj	_	_
+

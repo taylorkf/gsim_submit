@@ -1,0 +1,1 @@
+Move the orange square and place it to the right of the green triangle.

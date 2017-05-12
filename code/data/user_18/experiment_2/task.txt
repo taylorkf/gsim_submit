@@ -1,0 +1,2 @@
+place a red square underneath yellow triangle, but put it on the place where it does not overlap with each other.
+# place a red square underneath yellow traingle, but put it on the place where it does not overlap with each other.

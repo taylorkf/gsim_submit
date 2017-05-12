@@ -1,0 +1,13 @@
+1	Put	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	green	_	_	_	_	1	dobj	_	_
+4	star	_	_	_	_	5	nn	_	_
+5	north	_	_	_	_	3	dep	_	_
+6	of	_	_	_	_	5	prep	_	_
+7	the	_	_	_	_	9	det	_	_
+8	purple	_	_	_	_	9	nn	_	_
+9	triangle	_	_	_	_	11	poss	_	_
+10	's	_	_	_	_	9	possessive	_	_
+11	tip	_	_	_	_	6	pobj	_	_
+12	.	_	_	_	_	1	punct	_	_
+
